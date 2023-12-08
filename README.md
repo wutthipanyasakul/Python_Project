@@ -29,3 +29,23 @@ Here is the table of conversions:
 4	Saturn	1.06
 5	Uranus	0.92
 6	Neptune	1.19
+
+## Project 4: Magic 8-Ball
+
+#Instruction:
+
+    Write a magic8.py Python program that can answer any “Yes” or “No” question 
+    with a different fortune each time it executes.
+
+    Use:  the following 9 possible answers for our Magic 8-Ball:
+
+        Yes - definitely
+        It is decidedly so
+        Without a doubt
+        Reply hazy, try again
+        Ask again later
+        Better not tell you now
+        My sources say no
+        Outlook not so good
+        Very doubtful
+
