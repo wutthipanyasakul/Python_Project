@@ -22,7 +22,8 @@ Checks which number planet is equal to.
 It should then compute their weight on the destination planet.
 Here is the table of conversions:
 
-#Planet	Relative Gravity
+#Planet	Relative Gravity:
+
 1	Venus	0.91
 2	Mars	0.38
 3	Jupiter	2.34
