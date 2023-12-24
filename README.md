@@ -63,7 +63,7 @@ Here is the table of conversions:
     Drone Shipping (new), which has no flat charge, but the rate based on weight 
     is triple the rate of ground shipping.
 
-# Project 6: Gradebook
+## Project 6: Gradebook
 
 ### Instruction:
 
