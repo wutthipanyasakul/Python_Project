@@ -22,7 +22,7 @@ Checks which number planet is equal to.
 It should then compute their weight on the destination planet.
 Here is the table of conversions:
 
-#Planet	Relative Gravity:
+### Planet	Relative Gravity:
 
 1	Venus	0.91
 2	Mars	0.38
@@ -33,7 +33,7 @@ Here is the table of conversions:
 
 ## Project 4: Magic 8-Ball
 
-#Instruction:
+### Instruction:
 
     Write a magic8.py Python program that can answer any “Yes” or “No” question 
     with a different fortune each time it executes.
@@ -49,4 +49,25 @@ Here is the table of conversions:
         My sources say no
         Outlook not so good
         Very doubtful
+        
+## Project 5: 
+
+### Instruction:
+    Build a program that will take the weight of a package and determine the cheapest way 
+    to ship that package using Sal’s Shippers.
+
+    Sal’s Shippers has several different options for a customer to ship their package:
+
+    Ground Shipping, which is a small flat charge plus a rate based on the weight of your package.
+    Ground Shipping Premium, which is a much higher flat charge, but you aren’t charged for weight.
+    Drone Shipping (new), which has no flat charge, but the rate based on weight 
+    is triple the rate of ground shipping.
+
+# Project 6: Gradebook
+
+### Instruction:
+
+You are a student and you are trying to organize your subjects and grades using Python. 
+Let’s explore what we’ve learned about lists to organize your subjects and scores.
+    
 
