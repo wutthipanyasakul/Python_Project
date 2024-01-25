@@ -9,6 +9,7 @@ Created on Wed Jan  3 04:15:11 2024
 
 num1 = 5
 num2 = 4
+num3 = 7
 
 #Write a code to check if the summation of the two nums doesn't equal to 10
 
